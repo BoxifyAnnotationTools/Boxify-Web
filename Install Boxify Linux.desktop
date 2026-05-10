@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Install Boxify Linux
+Comment=Run Boxify Installer
+Exec=x-terminal-emulator -e bash -c 'bash /media/samtek/disk/Boxify-Web/install.sh; exec bash'
+Icon=system-software-install
+Terminal=false
+Categories=Utility;
